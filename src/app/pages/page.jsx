@@ -5,7 +5,7 @@ import Hero from "../Components/Hero";
 import Product from "../Components/Product";
 
 // Ensure this component is rendered client-side
-export default function Home() {
+export default function Index() {
 
   return (
     <>

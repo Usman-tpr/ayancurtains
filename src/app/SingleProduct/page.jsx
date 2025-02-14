@@ -12,7 +12,7 @@ const page = () => {
         <>
             <div className='text-black mt-36'></div>
 
-            <div className='flex justify-center items-center'>
+         <div className='flex justify-center items-center'>
                 <div className='w-[60%]'>
                     <Slider images={images} />
                 </div>
